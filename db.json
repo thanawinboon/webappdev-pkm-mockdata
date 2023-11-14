@@ -150,45 +150,6 @@
             }
         },
         {
-            "id": 13,
-            "name": "weedle",
-            "name_jp": "ビードル",
-            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/13.png",
-            "types": [
-                "bug",
-                "poison"
-            ],
-            "evolves_from": null
-        },
-        {
-            "id": 14,
-            "name": "kakuna",
-            "name_jp": "コクーン",
-            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/14.png",
-            "types": [
-                "bug",
-                "poison"
-            ],
-            "evolves_from": {
-                "name": "weedle",
-                "url": "https://pokeapi.co/api/v2/pokemon-species/13/"
-            }
-        },
-        {
-            "id": 15,
-            "name": "beedrill",
-            "name_jp": "スピアー",
-            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/15.png",
-            "types": [
-                "bug",
-                "poison"
-            ],
-            "evolves_from": {
-                "name": "kakuna",
-                "url": "https://pokeapi.co/api/v2/pokemon-species/14/"
-            }
-        },
-        {
             "id": 16,
             "name": "pidgey",
             "name_jp": "ポッポ",
@@ -248,31 +209,6 @@
             "evolves_from": {
                 "name": "rattata",
                 "url": "https://pokeapi.co/api/v2/pokemon-species/19/"
-            }
-        },
-        {
-            "id": 21,
-            "name": "spearow",
-            "name_jp": "オニスズメ",
-            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/21.png",
-            "types": [
-                "normal",
-                "flying"
-            ],
-            "evolves_from": null
-        },
-        {
-            "id": 22,
-            "name": "fearow",
-            "name_jp": "オニドリル",
-            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/22.png",
-            "types": [
-                "normal",
-                "flying"
-            ],
-            "evolves_from": {
-                "name": "spearow",
-                "url": "https://pokeapi.co/api/v2/pokemon-species/21/"
             }
         },
         {
